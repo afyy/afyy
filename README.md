@@ -13,7 +13,7 @@
 [<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />][stackoverflow]
 
 <br>
-<hr>
+<br>
 
 ### Technology Stack:
 
@@ -26,7 +26,6 @@
 
 <br>
 <br>
-
 
 ### Coding Challange
 
@@ -43,4 +42,4 @@
 [codewars]: https://www.codewars.com/users/afyy
 [hackerrank]: https://www.hackerrank.com/AliFurkanYalcin
 [stackoverflow]: https://stackoverflow.com/users/14343354/tartar-sauce
-[gmai]: mailto:AliFurkanYalcin@outlook.com.tr
+[gmail]: mailto:AliFurkanYalcin@outlook.com.tr
