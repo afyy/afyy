@@ -37,9 +37,10 @@
 
 ### :zap: GitHub Stats
 
-[![afy's GitHub stats](https://github-readme-stats.vercel.app/api?username=afyy&show_icons=true&theme=gruvbox)](https://github.com/afyy/github-readme-stats)
+[<img align="center" src="https://github-readme-stats.vercel.app/api?username=afyy&show_icons=true&theme=gruvbox" />][stats]
 
 [codewars]: https://www.codewars.com/users/afyy
 [hackerrank]: https://www.hackerrank.com/AliFurkanYalcin
 [stackoverflow]: https://stackoverflow.com/users/14343354/tartar-sauce
 [gmail]: mailto:AliFurkanYalcin@outlook.com.tr
+[stats]: https://github.com/anuraghazra/github-readme-stats
