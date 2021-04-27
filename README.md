@@ -10,6 +10,8 @@
 ### Connect with me
 
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+[<img align="left" alt="gmail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][in]
+
 
 <br>
 <br>
@@ -43,4 +45,5 @@
 [hackerrank]: https://www.hackerrank.com/AliFurkanYalcin
 [stackoverflow]: https://stackoverflow.com/users/14343354/tartar-sauce
 [gmail]: mailto:AliFurkanYalcin@outlook.com.tr
+[in]: www.linkedin.com/in/afyy
 [stats]: https://github.com/anuraghazra/github-readme-stats
