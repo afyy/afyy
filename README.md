@@ -1,6 +1,5 @@
 ### Hi there, ali furkan yalçın👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=afyy&color=yellow)</div>
 
-
 ## I'm a jr front-end developer.
 
 - 🌱 I’m currently exploring new things in technology. 🤣
@@ -14,14 +13,12 @@
 [<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-orange?style=for-the-badge&logo=stack-overflow&logoColor=black" />][stackoverflow]
 
 <br>
-<br>
 
 ### Connect with me
 
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 [<img align="left" alt="asdasd" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][in]
 
-<br>
 <br>
 
 ### Technology Stack:
@@ -33,7 +30,6 @@
 <img align="left" alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 <img align="left" alt="MD" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 
-<br>
 <br>
 
 ### :zap: GitHub Stats
