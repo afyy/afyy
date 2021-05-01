@@ -3,10 +3,7 @@
 ## I'm a jr front-end developer.
 
 - 🌱 I’m currently exploring new things in technology. 🤣
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 Goals: Contribute more to Open Source projects.
 - ⚡ I love to play basketball, table tennis and maths and geometry.
-
 
 ### My Challanges
 
