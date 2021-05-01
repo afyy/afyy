@@ -1,5 +1,6 @@
 ### Hi there, ali furkan yalçın👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=afyy&color=yellow)</div>
 
+
 ## I'm a jr front-end developer.
 
 - 🌱 I’m currently exploring new things in technology. 🤣
