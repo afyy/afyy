@@ -8,7 +8,7 @@
 - ⚡ I love to play basketball, table tennis and maths and geometry.
 
 
-### Coding Challange
+### My Challanges
 
 [<img align="left" alt="Hackerrank" src="https://img.shields.io/badge/Hackerrank-black?style=for-the-badge&logo=hackerrank&logoColor=#1ba94c" />][hackerrank]
 [<img align="left" alt="Codewars" src="https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=codewars&logoColor=red" />][codewars]
