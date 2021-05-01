@@ -7,11 +7,20 @@
 - 🥅 Goals: Contribute more to Open Source projects.
 - ⚡ I love to play basketball, table tennis and maths and geometry.
 
+
+### Coding Challange
+
+[<img align="left" alt="Hackerrank" src="https://img.shields.io/badge/Hackerrank-black?style=for-the-badge&logo=hackerrank&logoColor=#1ba94c" />][hackerrank]
+[<img align="left" alt="Codewars" src="https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=codewars&logoColor=red" />][codewars]
+[<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-000?style=for-the-badge&logo=stack-overflow&logoColor=original" />][stackoverflow]
+
+<br>
+<br>
+
 ### Connect with me
 
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 [<img align="left" alt="asdasd" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][in]
-
 
 <br>
 <br>
@@ -24,15 +33,6 @@
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 <img align="left" alt="MD" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-
-<br>
-<br>
-
-### Coding Challange
-
-[<img align="left" alt="Codewars" src="https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=codewars&logoColor=red" />][codewars]
-[<img align="left" alt="Hackerrank" src="https://img.shields.io/badge/Hackerrank-black?style=for-the-badge&logo=hackerrank&logoColor=#1ba94c" />][hackerrank]
-[<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-000?style=for-the-badge&logo=stack-overflow&logoColor=original" />][stackoverflow]
 
 <br>
 <br>
