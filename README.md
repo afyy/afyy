@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently exploring new things in technology. 🤣
 - 🥅 I'm looking for collaborate content makers.
-- ⚡ I love to play basketball, table tennis and maths and geometry.
 
 ### My Challanges
 
